@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Le Travail de l'interieur
+Essential Pilates est un studio entièrement équipé à Vence, dirigé par Vanessa, professeur qualifiée et expérimentée. Des cours privés, semi-privés et collectifs y sont dispensés pour répondre à vos besoins. Prévention, récupération post-opératoire, renforcement : découvrez une méthode adaptée à tous, sportifs ou non.
+
+Contactez-nous pour plus d’informations
+
 
 You can use the [editor on GitHub](https://github.com/essential-pilates/essential-pilates.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
